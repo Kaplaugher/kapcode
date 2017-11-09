@@ -1,0 +1,59 @@
+languageCode = "en-us"
+title = "Kapcode.me"
+baseurl = "http://kapcode.me/"
+theme = "prologue"
+
+[params]
+  name = "Kyle Plaugher"
+  description = "Full Stack Engineer"
+  copyright = "Kyle Plaugher."
+
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/Kaplaugher"
+
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "kaplaugher94@gmail.com"
+
+# Portfolio column one
+
+[[params.portfolio1]]
+  title = "Meme Monster"
+  alt = ""
+  source = "img/mememonster.png"
+  url = "http://mememonster.s3-website-us-east-1.amazonaws.com/"
+
+  [[params.portfolio1]]
+  title = "KAPtivating.io"
+  alt = ""
+  source = "img/kaptivating.jpg"
+url = "https://www.kaptivating.io/"
+
+
+# Portfolio column two
+
+[[params.portfolio2]]
+  title = "Geography Game"
+  alt = ""
+  source = "img/geoScreenShot.png"
+  url = "http://www.michaelirby.com/Geography-Game/#/"
+
+
+# Portfolio column 3
+
+[[params.portfolio3]]
+  title = "Code Companions"
+  alt = ""
+  source = "img/codecompanions.png"
+  url = "http://codecompanions-deploy.s3-website-us-east-1.amazonaws.com/signin"
+
+  [[params.portfolio3]]
+  title = "Wretched TV and Radio"
+  alt = ""
+  source = "img/wretched.jpg"
+url = "https://www.wretched.org/"
