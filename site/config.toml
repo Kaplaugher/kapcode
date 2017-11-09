@@ -15,11 +15,6 @@ theme = "prologue"
   link = "https://github.com/Kaplaugher"
 
 
-[[params.social]]
-  medium = "email"
-  icon = "envelope"
-  link = "kaplaugher94@gmail.com"
-
 # Portfolio column one
 
 [[params.portfolio1]]
