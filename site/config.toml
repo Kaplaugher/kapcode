@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Kapcode.me"
-baseurl = "http://kapcode.me/"
+baseurl = "/"
 theme = "prologue"
 
 [params]
